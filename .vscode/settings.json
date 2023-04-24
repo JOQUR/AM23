@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\PKier\\OneDrive\\Pulpit\\Cprogramming\\AMCOM",
+            "binaryPath": "c:\\Users\\PKier\\OneDrive\\Pulpit\\Cprogramming\\AMCOM\\main",
+            "binaryArgs": []
+        }
+    ]
+}
